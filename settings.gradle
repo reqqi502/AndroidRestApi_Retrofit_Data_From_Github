@@ -1,0 +1,2 @@
+rootProject.name = "AndroidRestApi_Retrofit"
+include ':app'
